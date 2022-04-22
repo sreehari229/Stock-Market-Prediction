@@ -1,0 +1,1 @@
+kernel location - /home/xeon/.local/share/jupyter/kernels/venv
